@@ -1,0 +1,20 @@
+main {
+    max-width: 800px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+button {
+    padding: 3px;
+    font-size: 18px;
+    box-shadow: 5px 10px;
+}
+
+#text {
+    font-size: 24px;
+}
+
+#buttons {
+    display: flex;
+    justify-content: space-evenly;
+}
